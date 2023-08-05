@@ -1,12 +1,32 @@
 h1 {
     color: #27aedb;
     text-align: center;
-    }
-    
+}
 
-button{
+
+button {
     color: #27aedb;
     text-align: center;
     justify-content: center;
     align-items: center;
+}
+
+
+.person-img {
+    width: 300px;
+    height: 300px;
+
+}
+
+.review {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+
+}
+
+#author-1 {
+    background-color: red;
 }
